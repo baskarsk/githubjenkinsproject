@@ -1,0 +1,37 @@
+{
+  "name": "kaiser-project-api",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "async": "2.0.x",
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "1.15.2",
+    "bunyan": "1.8.4",
+    "cfenv": "1.0.3",
+    "cors": "2.8.1",
+    "eureka-js-client": "4.1.2",
+    "express": "4.13.x",
+    "gulp": "3.9.1",
+    "gulp-env": "^0.4.0",
+    "gulp-mocha": "3.0.1",
+    "gulp-mongoose-scenario": "^1.2.3",
+    "gulp-nodemon": "2.2.1",
+    "jsonwebtoken": "7.1.9",
+    "lodash": "4.15.x",
+    "moment": "2.15.2",
+    "mongodb": "2.2.11",
+    "mongoose": "4.6.4",
+    "path": "0.12.7",
+    "request": "2.74.x",
+    "should": "11.1.1",
+    "sinon": "1.17.6",
+    "supertest": "^2.0.1"
+  },
+  "repository": {},
+  "engines": {
+    "node": "4.x"
+  }
+}

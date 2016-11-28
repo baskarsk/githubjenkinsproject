@@ -1,0 +1,23 @@
+{
+	"APP_NAME": "kaiser-project-api",
+	"LOG_LEVEL": "info",
+	"JWT_SECRET": "secretkey",
+	"ENCRYPTION_TYPE": "HS256",
+	"REQ_HEADER_TOKEN": "x-access-token",
+	"ADS": "ADS",
+	"ID_START": "1000",
+	"DEFAULT_SORT": "defaultSort",
+	"PROJ_STATUSES": {
+		"NEW": "New",
+		"UNDER_EMT_REVIEW": "Under EMT Review",
+		"UNDER_VP_ADS_REVIEW": "Under VP, ADS Review",
+		"APPROVED": "Approved",
+		"DEFERRED": "Deferred"
+	},
+	"SUBMITTER": "Submitter",
+	"HTTP_PATH": "http://",
+	"PROJECTS_PATH": "/projects/",
+	"COMMENT_DESC": "Project created",
+	"STATUS_DESC1": "Project status changed from ",
+	"STATUS_DESC2": " to "
+}

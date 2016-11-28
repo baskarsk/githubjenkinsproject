@@ -1,0 +1,67 @@
+{
+  "Services": [
+    {
+      "name": "Application Development",
+      "key": "applicationDevelopment",
+      "options": [
+        "Application development",
+        "Agile coaching",
+        "Mobile app development",
+        "Performance tuning",
+        "Web services",
+        "Payment solutions",
+        "Innovation prototyping"
+      ]
+    },
+    {
+      "name": "Technology Architecture",
+      "key": "technologyArchitecture",
+      "options": [
+        "CDTS Architecture PMO & Governance (ARB)",
+        "CTO/EA Alignment",
+        "Solution Architecture Practice",
+        "New Technology & Innovation assessments & rec.",
+        "Portfolio tech mgmt (App Catalog/rationalization)"
+      ]
+    },
+    {
+      "name": "Usability Center of Excellence",
+      "key": "usabilityCenter",
+      "options": [
+        "Usability research",
+        "Human factors engineering",
+        "Readiness & optimizantion strategy",
+        "Large scale change management",
+        "UI/UX design",
+        "Workflow conulting",
+        "Proficiency improvement"
+      ]
+    },
+    {
+      "name": "Testing & Quality Management",
+      "key": "testingQualityManagement",
+      "options": [
+        "Quality management",
+        "Testing PMO",
+        "Quality/maturity assessments",
+        "Quality/testing metrics and reporting",
+        "Quality mangement and testing tools",
+        "Application testing",
+        "Test data creation",
+        "Automation lab support"
+      ]
+    },
+    {
+      "name": "Service Management",
+      "key": "serviceManagement",
+      "options": [
+        "Service Level management",
+        "Demand management",
+        "Release management",
+        "Service Health reporting",
+        "Service & Cost improvement",
+        "Risk management"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "Regions": [
+    { "name": "Colorado" },
+    { "name": "Georgia" },
+    { "name": "Hawaii" },
+    { "name": "Mid-Atlantic States" },
+    { "name": "Northern California" },
+    { "name": "Northwest" },
+    { "name": "Southern California" },
+    { "name": "Washington (GHC)" },
+    { "name": "All" }
+  ]
+}

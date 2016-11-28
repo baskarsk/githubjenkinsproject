@@ -1,0 +1,20 @@
+---
+applications:
+- name:  project-api
+  disk: 1024M
+  command: node app.js
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+services:
+- kaiser-project-mongodb
+env:
+  platform: Bluemix
+  organization: Cognizant
+  authdomain: cognizant.com
+  serverdomain: mybluemix.net
+  vipAddress: project-api-client
+  eurekaServer: cdts-eureka.mybluemix.net
+  eurekaPort: 80
+  statusUrl: https://project-api.mybluemix.net/info
+  producerbaseUrl: https://search-api-producer.mybluemix.net
